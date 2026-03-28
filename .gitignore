@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Virtual environment (CRITICAL)
+.venv/
+venv/
+
+# Data files
+faiss_diabetes_index/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
